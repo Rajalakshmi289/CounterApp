@@ -1,0 +1,36 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+  padding: 15px;
+  border: 2px solid #0f0c0d;
+  border-radius: 4px;
+  background-color: #6bb6db;
+  color: #fff;
+  cursor: pointer;
+  font-size: 25px;
+  transition: 0.5s ease;
+}
+
+button:hover {
+  border: 2px solid #070706;
+  background-color: #797a73;
+}
+
+span {
+  padding: 10px;
+  font-size: 25px;
+}
+
+.title {
+  font-size: 15px;
+  margin-bottom: 16px;
+  text-align: center;
+}
+
+h1 {
+  color: #070807;
+}
